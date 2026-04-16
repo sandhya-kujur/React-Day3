@@ -16,7 +16,7 @@ const NavLink = styled.a`
 export default function Navbar() {
   return (
     <nav>
-      <NavLink href="#home">Home</NavLink>
+      <NavLink href="#reflink"><h1>This is a Reference Link</h1></NavLink>
     </nav>
   );
 }
